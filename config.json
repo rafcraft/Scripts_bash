@@ -1,0 +1,10 @@
+{
+    "smtp_server": "server smtp",
+    "smtp_port": 587,
+    "from_email": "from e-mail",
+    "from_password": "pass",
+    "to_email": "to e-mail",
+    "hostname": "host",
+    "port": 443,
+    "expiry_threshold_days": 165
+}
